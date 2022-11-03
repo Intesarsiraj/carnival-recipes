@@ -1,5 +1,11 @@
 Simon's Pork Sinigang (Tamarind Soup)
 -----------------------------------
+<<<<<<< HEAD
+3 tbsp fish sauce
+
+2. Sauté the onion until its layers separate from each other
+5. Pour the water and bring to a boil
+=======
 
 Ingredients:
 2 pieces taro
@@ -41,6 +47,7 @@ Finally, you're ready to serve your delicious dish! Gather your loved ones aroun
 
 
 
+>>>>>>> 511eb1b990b0d103544f7e4108b1a97a87159798
 
 
 
