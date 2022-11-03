@@ -1,10 +1,42 @@
 Simon's Pork Sinigang (Tamarind Soup)
 -----------------------------------
+<<<<<<< HEAD
 2 pieces medium sized tomato, quartered
 1 pack sinigang mix
 
 Directions:
 9. Put-in the spinach, turn off the heat, and cover the pot. Let the spinach cook using the remaining heat in the pot.
+=======
+<<<<<<< HEAD
+3 tbsp fish sauce
+
+2. Sauté the onion until its layers separate from each other
+5. Pour the water and bring to a boil
+=======
+
+Ingredients:
+2 pieces taro
+
+Servings: 6
+
+
+Servings: 6
+
+1. bunch string beans
+
+8. Add the string beans (and other vegetables if there are any) and simmer for 5 to 8 minutes
+10. Serve hot. Share and enjoy!
+
+Directions:
+
+Time: 1 hour 30 minutes
+
+
+2 lbs pork belly
+
+3. Add the pork belly and cook until outer part turns light brown
+4. Put-in the fish sauce and mix with the ingredients
+>>>>>>> bb1f13832072b04a2e803e2103cfdc3655a60c85
 
 
 
@@ -14,6 +46,16 @@ Directions:
 
 
 
+7. Put-in the sinigang mix
+
+Finally, you're ready to serve your delicious dish! Gather your loved ones around and dig in!
+
+
+
+
+
+
+>>>>>>> 511eb1b990b0d103544f7e4108b1a97a87159798
 
 
 
