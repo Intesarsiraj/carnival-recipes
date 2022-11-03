@@ -1,18 +1,31 @@
 Simon's Pork Sinigang (Tamarind Soup)
 -----------------------------------
+<<<<<<< HEAD
 Ingredients:
 2 pieces taro
 
 
 Directions:
+=======
+Time: 1 hour 30 minutes
+
+2 lbs pork belly
+
+3. Add the pork belly and cook until outer part turns light brown
+4. Put-in the fish sauce and mix with the ingredients
+>>>>>>> e96f1e47597ce9bba96a3bab0ea3c0e2d633792f
 
 
 
 
+<<<<<<< HEAD
 
 
 
 7. Put-in the sinigang mix
+=======
+Finally, you're ready to serve your delicious dish! Gather your loved ones around and dig in!
+>>>>>>> e96f1e47597ce9bba96a3bab0ea3c0e2d633792f
 
 
 
